@@ -14,7 +14,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh
 }
 
 .cards {
@@ -54,16 +54,5 @@ body {
 
 .card_text a:hover {
     background: #1D1D1D;
-    color: #FFF;
+    color: #FFF
 }
-
-/* @media (min-width: 800px) {
-    .container {
-        flex-direction: row;
-        height: 100vh
-    }
-
-    .cards {
-        margin: 0 20px;
-    }
-} */
